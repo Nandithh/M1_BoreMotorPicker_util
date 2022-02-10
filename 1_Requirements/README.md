@@ -1,19 +1,42 @@
 ## Requirements
-     To build an electric bicycle with an existing normal bicycle lesser than the cost of original electric bicycle.
+This bore well motor picker assists customers to choose motor pumps according to their requirement.
      
 ## SWOT Analysis
 
 ### STRENGTH
-•	Ease of use
-•	Pollution free
-•	Low cost structure
+•	Selects according to specification.
+•	Decision making is easy.
+•	Appropriate method.
 
 ### WEAKNESS
-•	Appearance is not posh.
+•	Not understandable to uneducated.
 
 ### OPPURTUNITIES
-•	Adapting to new technology is less expensive.
-•It also	Creates a new business.
+•   It helps in updating from older manual methods.
+•   It Does not require internet.
 
 ### THREAT
-•	Lack of safety.
+•	Data theft.
+
+
+## 5W's and 1H
+
+### WHAT
+       It is an automatic assistant that help customers choose their pump sets according to their requirement.
+   
+### WHY
+       It is required to choose the motor as per specification.
+       
+### WHEN
+       * It is used when buying motors for new borewell.
+       * Buying manual.
+       
+### WHERE
+       * This can be used as an mobile application.
+       * It can be used in motor dealership shops.
+       
+### WHO
+       * Agriculturists.
+       * Industrialists.
+       * Domestic consumers.
+
