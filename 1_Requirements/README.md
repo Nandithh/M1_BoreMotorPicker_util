@@ -41,4 +41,7 @@ This bore well motor picker assists customers to choose motor pumps according to
        * Agriculturists.
        * Industrialists.
        * Domestic consumers.
+       
+### HOW
+       *This motor picker can be used like a manual to choose motor based on our specifications.
 
