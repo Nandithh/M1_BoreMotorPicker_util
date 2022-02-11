@@ -3,6 +3,8 @@ This bore well motor picker assists customers to choose motor pumps according to
      
 ## SWOT Analysis
 
+![](/1_Requirements/SWOT.png)
+
 ### STRENGTH
 •	Selects according to specification.
 •	Decision making is easy.
