@@ -1,5 +1,11 @@
+# Description
+Bore Motor Picker is a ultiliy developed to help customers to choose the right Bore motor for their
+Bore-well based on their requirements just by entering certain parameters of the bore. 
+
 ## Requirements
-This bore well motor picker assists customers to choose motor pumps according to their requirement.
+* It is a complex task to choose a motor with right specifications.
+* Still using the manual methods to choose.
+
      
 ## SWOT Analysis
 
