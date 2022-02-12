@@ -6,6 +6,22 @@ Bore-well based on their requirements just by entering certain parameters of the
 * It is a complex task to choose a motor with right specifications.
 * Still using the manual methods to choose.
 
+
+
+**High Level Requirements:**                                                                    **Low Level Requirements:** 
+
+|`      `**ID**|`                 `**Description**|`            `**Status**|             
+| :- | :- | :- |
+|`    `HL01|` `Choosing the right Bore motor for Industries|Implemented|
+|`    `HL02|` `choosing the right Bore motor for Agriculture|Implemented|
+|`    `HL03|` `choosing the right Bore motor for Domestic|Implemented|
+
+ **Low Level Requirements:**
+ * A Choice is first given to choose between Agri/Industry/Domestic.
+ * According to the choice the input parameters are processed.
+ * A Motor with the right specfications is displayed as output.
+
+
      
 ## SWOT Analysis
 
