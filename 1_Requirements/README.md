@@ -12,9 +12,9 @@ Bore-well based on their requirements just by entering certain parameters of the
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|             
 | :- | :- | :- |
-|`    `HL01|` `Choosing the right Bore motor for Industries|Implemented|
-|`    `HL02|` `choosing the right Bore motor for Agriculture|Implemented|
-|`    `HL03|` `choosing the right Bore motor for Domestic|Implemented|
+|`    `HLR 1|` `Choosing the right Bore motor for Industries|Implemented|
+|`    `HLR 2|` `choosing the right Bore motor for Agriculture|Implemented|
+|`    `HLR 3|` `choosing the right Bore motor for Domestic|Implemented|
 
  **Low Level Requirements:**
  * A Choice is first given to choose between Agri/Industry/Domestic.
