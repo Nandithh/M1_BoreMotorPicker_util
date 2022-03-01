@@ -1,4 +1,5 @@
-# Research
+# REQUIREMENTS
+## Research
 * When it comes to choosing a proper motor for our borewell it becomes a complex task.
 * When choosing a bore motor goes wrong,there comes a lot of problems along with it. There is wastage of power and water.
 * Bore Motor Picker is a ultiliy developed to help customers to choose the right Bore motor for their Bore-well based on their requirements just by entering certain parameters of the bore.
@@ -13,48 +14,48 @@
 
 ![](/1_Requirements/SWOT.png)
 
-### STRENGTH
+### Strength
 •	Selects according to specification.
 •	Decision making is easy.
 •	Appropriate method.
 
-### WEAKNESS
+### Weakness
 •	Not understandable to uneducated.
 
-### OPPURTUNITIES
+### Oppurtunities
 •   It helps in updating from older manual methods.
 •   It Does not require internet.
 
-### THREAT
+### Threat
 •	Data theft.
 
 ## 5W's and 1H
 
-### WHAT
+### What
    It is an automatic assistant that help customers choose their pump sets according to their requirement.
    
-### WHY
+### Why
    It is required to choose the motor as per specification.
        
-### WHEN
+### When
    * It is used when buying motors for new borewell.
    * Buying manual.
        
-### WHERE
+### Where
    * This can be used as an mobile application.
    * It can be used in motor dealership shops.
        
-### WHO
+### Who
    * Agriculturists.
    * Industrialists.
    * Domestic consumers.
        
-### HOW
+### How
    * This motor picker can be used like a manual to choose motor based on our specifications.
 
 
 
-**High Level Requirements:**                                                                   
+## **HIGH LEVEL REQUIREMENTS:**                                                                   
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|             
 | :- | :- | :- |
