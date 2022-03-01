@@ -1,10 +1,10 @@
 # STRUCTURAL DIAGRAMS
 
 ## HIGH LEVEL DIAGRAM
+![](/2_Architecture/Structural%20diagram/Structural%20LLD.png) 
 
-![High_level](/2_Architecture/Structural%20diagram/Structural%20HLD.png)
 
 
 ## LOW LEVEL DIAGRAM
 
-![Low_level](/2_Architecture/Structural%20diagram/Structural%20LLD.png)
+![](/2_Architecture/Structural%20diagram/Structural%20HLD.png)
