@@ -2,11 +2,11 @@
 
 # 1.BEHAVIOURAL DIAGRAMS
 
-## HIGH LEVEL BEHAVIOURAL DIAGRAM
+## 1.1 HIGH LEVEL BEHAVIOURAL DIAGRAM
 
  ![](/2_Architecture/Behavioral%20diagram/Behavioural%20LLD.png)
 
-## LOW LEVEL BEHAVIOURAL DIAGRAM 
+## 1.2 LOW LEVEL BEHAVIOURAL DIAGRAM 
 
 ![](/2_Architecture/Behavioral%20diagram/Behavioural%20HLD.png)
 
