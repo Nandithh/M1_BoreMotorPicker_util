@@ -1,28 +1,14 @@
-# Description
-Bore Motor Picker is a ultiliy developed to help customers to choose the right Bore motor for their
-Bore-well based on their requirements just by entering certain parameters of the bore. 
+# Research
+* When it comes to choosing a proper motor for our borewell it becomes a complex task.
+* When choosing a bore motor goes wrong,there comes a lot of problems along with it. There is wastage of power and water.
+* Bore Motor Picker is a ultiliy developed to help customers to choose the right Bore motor for their Bore-well based on their requirements just by entering certain parameters of the bore.
 
-## Requirements
-* It is a complex task to choose a motor with right specifications.
-* Still using the manual methods to choose.
+## Identifying features
+*  To choose a motor with right specifications.
+*  To choose motors according to the purpose of use (Agri,Industry,Domestic).
+*  Based on the depth and purpose the motor should be chosen.
+*  Specifications of the motor must be displayed.
 
-
-
-**High Level Requirements:**                                                                   
-
-|`      `**ID**|`                 `**Description**|`            `**Status**|             
-| :- | :- | :- |
-|`    `HLR 1|` `Choosing the right Bore motor for Industries|Implemented|
-|`    `HLR 2|` `choosing the right Bore motor for Agriculture|Implemented|
-|`    `HLR 3|` `choosing the right Bore motor for Domestic|Implemented|
-
- **Low Level Requirements:**
- * A Choice is first given to choose between Agri/Industry/Domestic.
- * According to the choice the input parameters are processed.
- * A Motor with the right specfications is displayed as output.
-
-
-     
 ## SWOT Analysis
 
 ![](/1_Requirements/SWOT.png)
@@ -42,28 +28,54 @@ Bore-well based on their requirements just by entering certain parameters of the
 ### THREAT
 •	Data theft.
 
-
 ## 5W's and 1H
 
 ### WHAT
-       It is an automatic assistant that help customers choose their pump sets according to their requirement.
+   It is an automatic assistant that help customers choose their pump sets according to their requirement.
    
 ### WHY
-       It is required to choose the motor as per specification.
+   It is required to choose the motor as per specification.
        
 ### WHEN
-       * It is used when buying motors for new borewell.
-       * Buying manual.
+   * It is used when buying motors for new borewell.
+   * Buying manual.
        
 ### WHERE
-       * This can be used as an mobile application.
-       * It can be used in motor dealership shops.
+   * This can be used as an mobile application.
+   * It can be used in motor dealership shops.
        
 ### WHO
-       * Agriculturists.
-       * Industrialists.
-       * Domestic consumers.
+   * Agriculturists.
+   * Industrialists.
+   * Domestic consumers.
        
 ### HOW
-       *This motor picker can be used like a manual to choose motor based on our specifications.
+   * This motor picker can be used like a manual to choose motor based on our specifications.
+
+
+
+**High Level Requirements:**                                                                   
+
+|`      `**ID**|`                 `**Description**|`            `**Status**|             
+| :- | :- | :- |
+|`    `HLR 1|` `Choosing the right Bore motor for Industries|Implemented|
+|`    `HLR 2|` `choosing the right Bore motor for Agriculture|Implemented|
+|`    `HLR 3|` `choosing the right Bore motor for Domestic|Implemented|
+
+ **Low Level Requirements:**
+ * A Choice is first given to choose between Agri/Industry/Domestic.
+ * According to the choice the input parameters are processed.
+ * A Motor with the right specfications is displayed as output.
+
+
+## APPLICATIONS
+*  Dealership shops.
+*  Agricultural Consumers.
+ 
+
+     
+
+
+
+
 
