@@ -57,11 +57,13 @@
 
 ## **HIGH LEVEL REQUIREMENTS:**                                                                   
 
-|`      `**ID**|`                 `**Description**|`            `**Status**|             
-| :- | :- | :- |
-|`    `HLR 1|` `Choosing the right Bore motor for Industries|Implemented|
-|`    `HLR 2|` `choosing the right Bore motor for Agriculture|Implemented|
-|`    `HLR 3|` `choosing the right Bore motor for Domestic|Implemented|
+
+ID     | Description                                           |Status  |
+-------| ------------------------------------------------------|--------|
+HLR 1  |To get the depth of the bore as input from the user    |Implemented|
+HLR 2  |choosing the right Bore motor for Agricultural purpose |Implemented|
+HLR 3  |Choosing the right Bore motor for Industrial purpose   |Implemented|
+HLR 4  |choosing the right Bore motor for Domestic purpose     |Implemented|
 
  **Low Level Requirements:**
  * A Choice is first given to choose between Agri/Industry/Domestic.
