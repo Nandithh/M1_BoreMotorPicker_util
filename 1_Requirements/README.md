@@ -66,6 +66,9 @@ HLR 3  |Choosing the right Bore motor for Industrial purpose   |Implemented|
 HLR 4  |choosing the right Bore motor for Domestic purpose     |Implemented|
 
  **Low Level Requirements:**
+ 
+ ID     | Description                                           |Status  |
+--------| ------------------------------------------------------|--------|
  * A Choice is first given to choose between Agri/Industry/Domestic.
  * According to the choice the input parameters are processed.
  * A Motor with the right specfications is displayed as output.
