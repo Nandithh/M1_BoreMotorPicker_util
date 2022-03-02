@@ -65,7 +65,7 @@ HLR 2  |Choosing the right Bore motor for Agricultural purpose      |Implemented
 HLR 3  |Choosing the right Bore motor for Industrial purpose        |Implemented|
 HLR 4  |Choosing the right Bore motor for Domestic purpose          |Implemented|
 
- **Low Level Requirements:**
+##  **LOW LEVEL REQUIREMENTS:**
  
  ID     | Description                                                      |Status  |
 --------| -----------------------------------------------------------------|--------|
