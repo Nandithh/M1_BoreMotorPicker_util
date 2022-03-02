@@ -71,16 +71,17 @@ HLR 4  |Choosing the right Bore motor for Domestic purpose          |Implemented
 --------| -----------------------------------------------------------------|--------|
 LLR 1   | The depth of motor shall be stored in a variable                 |Implemented|
 LLR 1.1 | Choice is first given to choose between Agri/Industry/Domestic.  |Implemented|
-LLR 2   | Comparing Agri specification and depth, motor is chosen.         |Implemented|
-LLR 3   | Comparing Industrial specification and depth, motor is chosen.   |Implemented|
-LLR 4   | Comparing Domestic specification and depth, motor is chosen.     |Implemented|
+LLR 2   |  Agri specification and depth shall be compared and motor shall be chosen.         |Implemented|
+LLR 3   |  Industrial specification and depth shall be compared and motor shall be chosen.   |Implemented|
+LLR 4   |  Domestic specification and depth shall be compared and motor shall be chosen.     |Implemented|
 
 
 
 
 ## APPLICATIONS
 *  Motor Dealership shops.
-*  Agricultural Consumers.
+*  Consumers of all segment.
+
  
 
      
