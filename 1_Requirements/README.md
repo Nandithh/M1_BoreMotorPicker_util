@@ -58,24 +58,28 @@
 ## **HIGH LEVEL REQUIREMENTS:**                                                                   
 
 
-ID     | Description                                           |Status  |
--------| ------------------------------------------------------|--------|
-HLR 1  |To get the depth of the bore as input from the user    |Implemented|
-HLR 2  |choosing the right Bore motor for Agricultural purpose |Implemented|
-HLR 3  |Choosing the right Bore motor for Industrial purpose   |Implemented|
-HLR 4  |choosing the right Bore motor for Domestic purpose     |Implemented|
+ID     | Description                                                |Status  |
+-------| -----------------------------------------------------------|--------|
+HLR 1  |To get the depth of the bore and other inputs from the user |Implemented|
+HLR 2  |Choosing the right Bore motor for Agricultural purpose      |Implemented|
+HLR 3  |Choosing the right Bore motor for Industrial purpose        |Implemented|
+HLR 4  |Choosing the right Bore motor for Domestic purpose          |Implemented|
 
  **Low Level Requirements:**
  
- ID     | Description                                           |Status  |
---------| ------------------------------------------------------|--------|
- * A Choice is first given to choose between Agri/Industry/Domestic.
- * According to the choice the input parameters are processed.
- * A Motor with the right specfications is displayed as output.
+ ID     | Description                                                      |Status  |
+--------| -----------------------------------------------------------------|--------|
+LLR 1   | The depth of motor shall be stored in a variable                 |Implemented|
+LLR 1.1 | Choice is first given to choose between Agri/Industry/Domestic.  |Implemented|
+LLR 2   | Comparing Agri specification and depth, motor is chosen.         |Implemented|
+LLR 3   | Comparing Industrial specification and depth, motor is chosen.   |Implemented|
+LLR 4   | Comparing Domestic specification and depth, motor is chosen.     |Implemented|
+
+
 
 
 ## APPLICATIONS
-*  Dealership shops.
+*  Motor Dealership shops.
 *  Agricultural Consumers.
  
 
