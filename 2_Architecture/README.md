@@ -3,12 +3,12 @@
 # 1.BEHAVIOURAL DIAGRAMS
 
 ## 1.1 HIGH LEVEL BEHAVIOURAL DIAGRAM
-
- ![](/2_Architecture/Behavioral%20diagram/Behavioural%20LLD.png)
+![](/2_Architecture/Behavioral%20diagram/Behavioural%20HLD.png)
+ 
 
 ## 1.2 LOW LEVEL BEHAVIOURAL DIAGRAM 
 
-![](/2_Architecture/Behavioral%20diagram/Behavioural%20HLD.png)
+  ![](/2_Architecture/Behavioral%20diagram/Behavioural%20LLD.png)
 
 
 # 2.STRUCTURAL DIAGRAMS
