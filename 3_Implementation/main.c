@@ -5,9 +5,7 @@
 #include "BoreMotor.h"
 
 
-void Texmo();
-void Kirloskar();
-void CRI();
+
 
 void main()
 {
