@@ -65,20 +65,20 @@
 
 ID     | Description                                                |Status  |
 -------| -----------------------------------------------------------|--------|
-HLR 1  |To get the depth of the bore and other inputs from the user |Implemented|
-HLR 2  |Choosing the right Bore motor for Agricultural purpose      |Implemented|
-HLR 3  |Choosing the right Bore motor for Industrial purpose        |Implemented|
-HLR 4  |Choosing the right Bore motor for Domestic purpose          |Implemented|
+HLR 1  |To choose the right bore motor based on brands             |Implemented|
+HLR 2  |To get the size of the bore and other inputs from the user  |Implemented|
+HLR 3  |To print the price of motor basd upon the inputs            |Implemented|
+HLR 4  |To generate a bill for the order placed by the user         |Implemented|
 
 ##  **LOW LEVEL REQUIREMENTS:**
  
  ID     | Description                                                      |Status  |
 --------| -----------------------------------------------------------------|--------|
-LLR 1   | The depth of motor shall be stored in a variable                 |Implemented|
-LLR 1.1 | Choice is first given to choose between Agri/Industry/Domestic.  |Implemented|
-LLR 2   |  Agri specification and depth shall be compared and motor shall be chosen.         |Implemented|
-LLR 3   |  Industrial specification and depth shall be compared and motor shall be chosen.   |Implemented|
-LLR 4   |  Domestic specification and depth shall be compared and motor shall be chosen.     |Implemented|
+LLR 1   | The list brands available shall be given as choice               |Implemented|
+LLR 1.1 | Choice is first given to choose between (Texmo/Kirloskar/CRI/Taro)|Implemented|
+LLR 2   | The size of motor shall be stored in a variable                          |Implemented|
+LLR 3   |  The price of motor shall be processed based on brand and other inputs   |Implemented|
+LLR 4   |  Customer details shall be taken to generate the bill                    |Implemented|
 
 
 
