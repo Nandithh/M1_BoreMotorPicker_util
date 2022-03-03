@@ -27,5 +27,8 @@
 
 ![](/6_ImagesAndVideos/Screenshot%20(78).png)
 ![](/6_ImagesAndVideos/Screenshot%20(79).png)
+![](/6_ImagesAndVideos/Screenshot%20(80).png)
+![](/6_ImagesAndVideos/Screenshot%20(82).png)
+![](/6_ImagesAndVideos/Screenshot%20(83).png)
 
 
