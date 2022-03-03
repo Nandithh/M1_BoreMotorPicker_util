@@ -4,7 +4,7 @@
 
 
 ## Solo Learn
-![](/0_Certificates/Nandith%20R%20sololearn.pdf)
+![](/6_ImagesAndVideos/Solo%20learn%20Nandith%20R.png)
 
 
 ### NDG Linux
