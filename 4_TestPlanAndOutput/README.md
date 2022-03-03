@@ -4,9 +4,11 @@
 
 |**Test ID**|**Description**|**Exp i/P**|**Exp O/P**|**Actual O/P**|
 | :- | :-: | :-: | :-: | :-: |
-|H\_01|Choosing the right motor for Agri purpose|Choice|SUCCESS|SUCCESS|
-|H\_02|Choosing the right motor for Industry purpose|Choice|SUCCESS|SUCCESS|
-|H\_03|Depth of the bore|Choice|SUCCESS|SUCCESS|
+|HLT_01|Choosing the brand of motor the user wants to buy|Choice|1|1|
+|HLT_02|Choose the size of motor|Choice|1|1|
+|HLT_03|Choose the Horse power of motor|Choice|1|1|
+|HLT_04|Display the price of motor selected|1|price|price|
+|HLT_05|Generate a bill for the selected product|customer details|bill details|bill details|
 
 
 
@@ -15,8 +17,8 @@
 
 |Test ID|HL\_ID|Description|Exp input|Exp Output|Actual Output|
 | :- | :- | :- | :- | :- | :- |
-|L\_01|H\_01|Choosing the right motor for Agri purpose if(depth<=100)|80|5 HP|5 HP|
-|L\_02|H\_01|Choosing the right motor for Agri purpose if(depth>=101 && depth<=200)|140|7.5 HP|7.5 HP|
+|LLT_01|H\_01|To Display|80|5 HP|5 HP|
+|LLT_02|H\_01|Choosing the right motor for Agri purpose if(depth>=101 && depth<=200)|140|7.5 HP|7.5 HP|
 |L\_03|H\_01|Choosing the right motor for Agri purpose if(depth>=201 && depth<=300)|250|10 HP|10 HP|
 |L\_04|H\_01|Choosing the right motor for Agri purpose if(depth>301)|340|12.5 HP|12.5 HP|
 |L\_05|H\_02|Choosing the right motor for Industry purpose if(depth<=100)|60|<p>7.5 HP</p><p></p>|<p>7.5 HP</p><p></p>|
