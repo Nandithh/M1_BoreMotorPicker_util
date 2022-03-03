@@ -19,3 +19,4 @@
 
 ## Codiga
 ![](https://api.codiga.io/project/31245/status/svg)
+![](https://api.codiga.io/project/31245/score/svg)
