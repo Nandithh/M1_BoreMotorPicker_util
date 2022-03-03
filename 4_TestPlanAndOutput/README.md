@@ -23,4 +23,8 @@
 |LLT_04|HLT_04|To Display the price of selected motor|1|17300|17300|
 |LLT_05|HLT_05|Generate bill by getting customer details|customer details|Bill details|Bill details|
 
+## OUTPUT
+
+![](/6_ImagesAndVideos/Screenshot%20(78).png)
+
 
