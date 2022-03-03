@@ -17,4 +17,5 @@
 ## Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b24b1eaabbbe48f496745fb2a5fac064)](https://www.codacy.com/gh/Nandithh/M1_BoreMotorPicker_util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nandithh/M1_BoreMotorPicker_util&amp;utm_campaign=Badge_Grade)
 
-
+## Codiga
+![](https://api.codiga.io/project/31245/status/svg)
