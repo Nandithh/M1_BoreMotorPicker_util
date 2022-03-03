@@ -2,10 +2,10 @@
 
 ## Badges
 
-## Cpp check
+## Static check
 [![cppcheck-action](https://github.com/Nandithh/M1_BoreMotorPicker_util/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nandithh/M1_BoreMotorPicker_util/actions/workflows/cppcheck.yml)
 
-## Valgrind
+## Dynamic check
 [![Valgrind](https://github.com/Nandithh/M1_BoreMotorPicker_util/actions/workflows/codequality.yml/badge.svg)](https://github.com/Nandithh/M1_BoreMotorPicker_util/actions/workflows/codequality.yml)
 
 ## Build
