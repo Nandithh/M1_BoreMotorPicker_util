@@ -3,6 +3,7 @@
 #include<string.h>
 #include"MainBoreMotor.h"
 
+
 void details()
 {
 
@@ -80,7 +81,7 @@ void Texmo()
     printf(" Name %s\n", B.name);
     printf(" Phonenumber: %d \n ", B.phonenumber);
     printf(" email id: %s \n ", B.email);
-    printf("Your texmo motor of will be delivered to your address\n", HP, B.address);
+    printf("Your texmo motor of will be delivered to your address\n",  B.address);
 
     printf("----------thank you------------!\n");
 }
@@ -146,7 +147,7 @@ void Kirloskar()
     printf(" Name %s\n", B.name);
     printf(" Phonenumber: %d \n", B.phonenumber);
     printf(" email id: %s \n", B.email);
-    printf("Your Kirloskar motor of will be delivered to your address\n",HP, B.address);
+    printf("Your Kirloskar motor of will be delivered to your address\n",B.address);
 
     printf("--------------thank you--------------\n");
 }
