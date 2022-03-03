@@ -1,26 +1,30 @@
 # REQUIREMENTS
+
+## Introduction
+  Bore Motor Picker is a system that helps customers to buy Bore motors of various brands as well as generate a bill when the place an order.
 ## Research
 * When it comes to choosing a proper motor for our borewell it becomes a complex task.
 * When choosing a bore motor goes wrong,there comes a lot of problems along with it. There is wastage of power and water.
-* Bore Motor Picker is a ultiliy developed to help customers to choose the right Bore motor for their Bore-well based on their requirements just by entering certain parameters of the bore.
+* Bore Motor Picker is a ultiliy developed to help customers to choose a motor for their Bore-well based on their requirements just by entering certain parameters of the bore.
 
 ## Identifying features
-*  To choose a motor with right specifications.
-*  To choose motors according to the purpose of use (Agri,Industry,Domestic).
-*  Based on the depth and purpose the motor should be chosen.
-*  Specifications of the motor must be displayed.
+*  To buy a motor by entering specifications.
+*  To buy motors according to brands of choice.
+*  Based on the size and Horse power required  the motor should be chosen.
+*  Price of the motor must be displayed.
 
 ## SWOT Analysis
 
 ![](/1_Requirements/SWOT.png)
 
 ### Strength
-•	Selects according to specification.
+•	Selects according to brands.
 •	Decision making is easy.
 •	Appropriate method.
 
 ### Weakness
-•	Not understandable to uneducated.
+•	updating the price details is slow.
+
 
 ### Oppurtunities
 •   It helps in updating from older manual methods.
@@ -32,10 +36,10 @@
 ## 5W's and 1H
 
 ### What
-   It is an automatic assistant that help customers choose their pump sets according to their requirement.
+   It is an automatic assistant that help customers buy their pump sets according to their requirement.
    
 ### Why
-   It is required to choose the motor as per specification.
+   It is required to buy the motor as per specification.
        
 ### When
    * It is used when buying motors for new borewell.
@@ -51,7 +55,7 @@
    * Domestic consumers.
        
 ### How
-   * This motor picker can be used like a manual to choose motor based on our specifications.
+   * This motor picker can be used like a manual to choose motor of different brands.
 
 
 
