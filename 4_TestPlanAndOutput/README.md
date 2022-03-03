@@ -17,10 +17,10 @@
 
 |Test ID|HL\_ID|Description|input|Exp Output|Actual Output|
 | :- | :- | :- | :- | :- | :- |
-|LLT_01|H\_01|To Display The brands of motor|1|texmo|texmo|
-|LLT_02|H\_01|To choose the available size of motors|1| 4 inch|4 inch|
-|LLT_03|H\_01|To display the motors based on HP|1| 2 HP|2 HP|
-|LLT_04|H\_01|To Display the price of selected motor|1|17300|17300|
-|L\_05|H\_02|Generate bill by getting customer details|customer details|Bill details|Bill details|
+|LLT_01|HLT_01|To Display The brands of motor|1|texmo|texmo|
+|LLT_02|HLT_02|To choose the available size of motors|1| 4 inch|4 inch|
+|LLT_03|HLT_03|To display the motors based on HP|1| 2 HP|2 HP|
+|LLT_04|HLT_04|To Display the price of selected motor|1|17300|17300|
+|LLT_05|HLT_05|Generate bill by getting customer details|customer details|Bill details|Bill details|
 
 
