@@ -7,4 +7,4 @@
 
 ## LOW LEVEL DIAGRAM
 
-![](/2_Architecture/Structural%20diagram/Structural%20HLD.png)
+![](/6_ImagesAndVideos/Structural%20LLD.png)
