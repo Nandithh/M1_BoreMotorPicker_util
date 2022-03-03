@@ -15,20 +15,21 @@
 
 ## SWOT Analysis
 
-![](/1_Requirements/SWOT.png)
+![](/6_ImagesAndVideos/SWOT.png)
 
 ### Strength
-•	Selects according to brands.
-•	Decision making is easy.
-•	Appropriate method.
+•	Selects according to brands.    
+•	Decision making is easy.      
+•	Appropriate method.   
 
 ### Weakness
-•	updating the price details is slow.
+•	updating the price details is slow.   
+* No user interface.
 
 
 ### Oppurtunities
-•   It helps in updating from older manual methods.
-•   It Does not require internet.
+•   It helps in updating from older manual methods.   
+•   It Does not require internet.   
 
 ### Threat
 •	Data theft.
@@ -42,8 +43,8 @@
    It is required to buy the motor as per specification.
        
 ### When
-   * It is used when buying motors for new borewell.
-   * Buying manual.
+   * It is used when buying motors for new borewell.  
+   * Buying manual. 
        
 ### Where
    * This can be used as an mobile application.
