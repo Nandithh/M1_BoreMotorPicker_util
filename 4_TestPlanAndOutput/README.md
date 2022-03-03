@@ -20,7 +20,7 @@
 |LLT_01|H\_01|To Display The brands of motor|1|texmo|texmo|
 |LLT_02|H\_01|To choose the available size of motors|1| 4 inch|4 inch|
 |LLT_03|H\_01|To display the motors based on HP|1| 2 HP|2 HP|
-|LLT_04|H\_01|To Display the price of selectes motor|17300||17300|
+|LLT_04|H\_01|To Display the price of selected motor|1|17300|17300|
 |L\_05|H\_02|Generate bill by getting customer details|customer details|Bill details|Bill details|
 
 
