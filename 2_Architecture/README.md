@@ -12,15 +12,14 @@
 
 
 # 2.STRUCTURAL DIAGRAMS
-
-## 2.1 HIGH LEVEL DIAGRAM
-![](/2_Architecture/Structural%20diagram/Structural%20LLD.png) 
-
+## 2.1HIGH LEVEL DIAGRAM
+![](/6_ImagesAndVideos/Structural%20HLD.png) 
 
 
-## 2.2 LOW LEVEL DIAGRAM
 
-![](/2_Architecture/Structural%20diagram/Structural%20HLD.png)
+## 2.2LOW LEVEL DIAGRAM
+
+![](/6_ImagesAndVideos/Structural%20LLD.png)
 
 
 
