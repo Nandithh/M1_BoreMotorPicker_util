@@ -1,7 +1,7 @@
 # REQUIREMENTS
 
 ## Introduction
-  Bore Motor Picker is a system that helps customers to buy Bore motors of various brands as well as generate a bill when the place an order.
+  Bore Motor Picker is a system that helps customers to buy Bore motors of various brands as well as generate a bill when they place an order.
 ## Research
 * When it comes to choosing a proper motor for our borewell it becomes a complex task.
 * When choosing a bore motor goes wrong,there comes a lot of problems along with it. There is wastage of power and water.
