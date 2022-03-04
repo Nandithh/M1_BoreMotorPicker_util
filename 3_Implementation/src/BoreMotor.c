@@ -1,9 +1,22 @@
+/**
+ * @file BoreMotor.c
+ * @author nandith
+ * @brief Boremotor source code
+ * @version 0.1
+ * @date 2022-03-04
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
 #include"MainBoreMotor.h"
 
-
+/**
+ * @brief details about the customer is stored using structures
+ * 
+ */
 void details()
 {
 
@@ -19,12 +32,15 @@ void details()
     printf("Enter the phone number : \n");
     scanf("%s", B.phonenumber);
 }
-
+/**
+ * @brief function to buy texmo motors
+ * 
+ */
 void Texmo()
 {
     int price,motorsize,HP,buy;
-    int a[10]={17300,29600,37000,30950,44650,51300};
-    int *ptr =a;
+    int a[10]={17300,29600,37000,30950,44650,51300}; //array for storing price
+    int *ptr =a;                                       // pointer for accessing price
     printf("Enter the size of motor you want \n");
     printf(" 4 inches (press 1)\n");
     printf(" 6 inches (press 2)\n");
@@ -81,16 +97,19 @@ void Texmo()
     printf(" Name %s\n", B.name);
     printf(" Phonenumber: %d \n ", B.phonenumber);
     printf(" email id: %s \n ", B.email);
-    printf("Your texmo motor of will be delivered to your address\n",  B.address);
+    printf("Your texmo motor of will be delivered to your address\n", HP, B.address);
 
     printf("----------thank you------------!\n");
 }
-
+/**
+ * @brief function to buy kirloskar pumps
+ * 
+ */
 void Kirloskar()
 {
     int price,motorsize,HP,buy;
-    int a[10]={19700,30000,38250,333000,45600,51500};
-    int *ptr =a;
+    int a[10]={19700,30000,38250,333000,45600,51500};  //array for storing price
+    int *ptr =a;                                            // pointer for accessing price
     printf("Enter the size of motor you want \n");
     printf(" 4 inches (press 1)\n");
     printf(" 6 inches (press 2)\n");
@@ -147,16 +166,20 @@ void Kirloskar()
     printf(" Name %s\n", B.name);
     printf(" Phonenumber: %d \n", B.phonenumber);
     printf(" email id: %s \n", B.email);
-    printf("Your Kirloskar motor of will be delivered to your address\n",B.address);
+    printf("Your Kirloskar motor of will be delivered to your address\n",HP, B.address);
 
     printf("--------------thank you--------------\n");
 }
+/**
+ * @brief function to buy CRI pumps
+ * 
+ */
 
 void CRI()
 {
     int price,motorsize,HP,buy;
-    int a[10]={16500,29000,37000,30000,43600,50300};
-    int *ptr =a;
+    int a[10]={16500,29000,37000,30000,43600,50300};  //array for storing price
+    int *ptr =a;                                           // pointer for accessing price
     printf("Enter the size of motor you want \n");
     printf(" 4 inches (press 1)\n");
     printf(" 6 inches (press 2)\n");
@@ -218,14 +241,17 @@ void CRI()
 
     printf("--------------------thank you-----------------\n");
 }
-
+/**
+ * @brief function to buy Taro pumps
+ * 
+ */
 
 
 void Taro()
 {
     int price,motorsize,HP,buy;
-    int a[10]={17000,29500,37200,30000,45500,51000};
-    int *ptr =a;
+    int a[10]={17000,29500,37200,30000,45500,51000}; //array for storing price
+    int *ptr =a;                                           // pointer for accessing price
     printf("Enter the size of motor you want \n");
     printf(" 4 inches (press 1)\n");
     printf(" 6 inches (press 2)\n");
@@ -287,5 +313,6 @@ void Taro()
 
     printf("--------------------thank you-----------------\n");
 }
+
 
 
