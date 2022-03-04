@@ -1,11 +1,23 @@
+/**
+ * @file main.c
+ * @author nandith
+ * @brief this is a project to buy bore motors
+ * @version 0.1
+ * @date 2022-03-04
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include "MainBoreMotor.h"
 #include "BoreMotor.h"
 
-
-
+/**
+ * @brief main function providing choice 
+ * 
+ */
 
 void main()
 {
