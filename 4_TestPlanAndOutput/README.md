@@ -24,6 +24,7 @@
 |LLT_05|HLT_05|Generate bill by getting customer details|customer details|Bill details|Bill details|
 
 ## OUTPUT
+![](/6_ImagesAndVideos/Screenshot%20(94).png)
 
 ![](/6_ImagesAndVideos/Screenshot%20(78).png)
 ![](/6_ImagesAndVideos/Screenshot%20(79).png)
