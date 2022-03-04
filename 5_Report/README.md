@@ -1,19 +1,20 @@
-# REQUIREMENTS
+# Bore Motor Picker
 
 ## Introduction
   Bore Motor Picker is a system that helps customers to buy Bore motors of various brands as well as generate a bill when they place an order.
-## Research
+# 1.REQUIREMENTS
+##1.1 Research
 * When it comes to choosing a proper motor for our borewell it becomes a complex task.
 * When choosing a bore motor goes wrong,there comes a lot of problems along with it. There is wastage of power and water.
 * Bore Motor Picker is a ultiliy developed to help customers to choose a motor for their Bore-well based on their requirements just by entering certain parameters of the bore.
 
-## Identifying features
+## 1.2Identifying features
 *  To buy a motor by entering specifications.
 *  To buy motors according to brands of choice.
 *  Based on the size and Horse power required  the motor should be chosen.
 *  Price of the motor must be displayed.
 
-## SWOT Analysis
+## 1.3SWOT Analysis
 
 ![](/6_ImagesAndVideos/SWOT.png)
 
@@ -34,7 +35,7 @@
 ### Threat
 •	Data theft.
 
-## 5W's and 1H
+## 1.4 5W's and 1H
 
 ### What
    It is an automatic assistant that help customers buy their pump sets according to their requirement.
@@ -60,7 +61,7 @@
 
 
 
-## **HIGH LEVEL REQUIREMENTS:**                                                                   
+## 1.5 **HIGH LEVEL REQUIREMENTS:**                                                                   
 
 
 ID     | Description                                                |Status  |
@@ -70,7 +71,7 @@ HLR 2  |To get the size of the bore and other inputs from the user  |Implemented
 HLR 3  |To print the price of motor basd upon the inputs            |Implemented|
 HLR 4  |To generate a bill for the order placed by the user         |Implemented|
 
-##  **LOW LEVEL REQUIREMENTS:**
+##  1.6 **LOW LEVEL REQUIREMENTS:**
  
  ID     | Description                                                      |Status  |
 --------| -----------------------------------------------------------------|--------|
@@ -83,29 +84,29 @@ LLR 4   |  Customer details shall be taken to generate the bill                 
 
 
 
-## APPLICATIONS
+##1.7 APPLICATIONS
 *  Motor Dealership shops.
 *  Consumers of all segment.
 
-# ARCHITECTURE
+# 2.ARCHITECTURE
 
-# 1.BEHAVIOURAL DIAGRAMS
+# 2.1BEHAVIOURAL DIAGRAMS
 
-## 1.1 HIGH LEVEL BEHAVIOURAL DIAGRAM
+## 2.1.1 HIGH LEVEL BEHAVIOURAL DIAGRAM
 ![](/2_Architecture/Behavioral%20diagram/Behavioural%20HLD.png)
  
 
-## 1.2 LOW LEVEL BEHAVIOURAL DIAGRAM 
+## 2.1.2 LOW LEVEL BEHAVIOURAL DIAGRAM 
 
   ![](/2_Architecture/Behavioral%20diagram/Behavioural%20LLD.png)
 
 
-# 2.STRUCTURAL DIAGRAMS
-## 2.1HIGH LEVEL DIAGRAM
+# 2.2STRUCTURAL DIAGRAMS
+## 2.2.1HIGH LEVEL DIAGRAM
 ![](/6_ImagesAndVideos/Structural%20HLD.png) 
 
 
 
-## 2.2LOW LEVEL DIAGRAM
+## 2.2.2LOW LEVEL DIAGRAM
 
 ![](/6_ImagesAndVideos/Structural%20LLD.png)
